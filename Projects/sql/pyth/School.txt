@@ -1,0 +1,11 @@
+id	first_name	last_name	section	joined_on	house point
+1	  Jim	merrit	A	07-05-2015	3317
+2	Kim   	Karen	A	10-03-2017	4523
+3	Lim	John	C	15-02-2015	3832
+4	     Tim	farmer	C	10-08-2017	
+5	Vim	cook	B	15-10-2015	2541
+6	Jay	jaison	A	15-10-2015	4360
+7	    Kay	Cool	B	07-05-2015	2258
+8	Raj      	Royal	B	10-03-2017	1770
+9	Sam	Super		15-10-2015	2347
+10	Joy	Jackson	C	07-05-2015	2309

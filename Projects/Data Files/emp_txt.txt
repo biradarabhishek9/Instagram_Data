@@ -1,0 +1,11 @@
+id	Name	Age
+1	Jim	21
+2	Kim	32
+3	Lim	43
+4	Tim	54
+5	Vim	23
+6	Jay	32
+7	Kay	45
+8	Raj	23
+9	John	54
+10	Ram	32

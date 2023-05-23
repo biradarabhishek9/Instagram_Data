@@ -1,0 +1,11 @@
+Stu Id	Name	Class
+1	Jim	1
+2	Kim	2
+3	Lim	3
+4	Tim	3
+5	Vim	6
+6	Jay	8
+7	Kay	3
+8	Liz	9
+9	Ram	10
+10	Sam	3

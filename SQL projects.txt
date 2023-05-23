@@ -1,0 +1,43 @@
+1) SQL Data Exploration
+
+https://youtu.be/qfyynHBFOsM
+
+2) SQL Data Cleaning
+
+https://youtu.be/8rO7ztF4NtU
+
+✅✅Here are the links to main projects:
+
+1) E-commerce Project (Very Popular)
+
+https://github.com/aaronzguan/Online-Shopping-Cart-Database-Project.git
+
+2) Railway management system
+
+https://github.com/aaryanrr/RailwayMGMT.git
+
+3)Road Safety Dataset
+
+https://github.com/ptyadana/SQL-Data-Analysis-and-Visualization-Projects/
+
+4) European Soccer Game Analysis
+
+https://www.kaggle.com/dimarudov/data-analysis-using-sql/data
+
+5) World Population Dataset
+
+https://github.com/LoicChamplong/Data-Analysis-SQL/tree/master/Analysis_of_the_2015_World_population
+
+Step 1: Use the datasets shared above
+
+Step 2: Take time to understand the content and structure. Identify key variables and columns.
+
+Step 3: Set up the database: Choose a relational database management system (RDBMS) such as MySQL, PostgreSQL, or SQLite.
+
+Step 4: Import the data: Load the dataset into your database. Make sure to create appropriate tables that match the structure of the dataset.
+
+Step 5: Decide the questions: Brainstorm a list of questions you’d like to answer. For example, you could ask about trends, comparisons, aggregations, or correlations in the data.
+
+Step 6: Write SQL queries: Convert your questions into SQL queries, then test and refine.
+
+Step 7: Upload your project on Github. Also create documentation and powerpoints to explain your project.

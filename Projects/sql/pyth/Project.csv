@@ -1,0 +1,60 @@
+ProjectID,ProjectType,StartDate,EndDate,Domain,Priority,Status,Revenue,Profit,Headcount
+1801,Software,03-09-2018,13-10-2018,E-commerce,2,Delayed,88628,29247,2
+2198,Data Science,20-12-2019,04-06-2020,Healthcare,2,Delayed,83494,45087,2
+6950,Automation,11-07-2019,27-08-2020,Industrial,3,Completed,918845,459423,7
+2805,Data Science,02-02-2019,21-01-2020,E-commerce,1,Delayed,169506,72888,5
+2624,Data Science,08-12-2018,25-05-2020,Industrial,2,Delayed,426192,251453,5
+2931,Data Science,10-03-2019,27-12-2020,Healthcare,2,Completed,268150,53630,7
+3655,Automation,07-07-2019,14-01-2020,E-commerce,2,Cancelled,21634,13413,4
+1778,Automation,14-12-2018,09-08-2020,Banking,3,On Track,820541,82054,4
+2566,Software,27-03-2020,11-12-2020,Healthcare,3,Delayed,792785,364681,3
+1859,Data Science,24-11-2018,08-05-2020,Banking,1,Delayed,81576,55472,2
+2090,Automation,26-06-2020,14-08-2020,Industrial,2,On Track,276216,8286,2
+2533,Automation,08-06-2019,13-04-2020,Banking,3,On Track,937564,56254,2
+2813,Analytics,02-11-2019,07-05-2020,E-commerce,1,On Track,860150,430075,8
+2368,Software,05-11-2019,05-07-2020,Industrial,3,Cancelled,651681,58651,8
+9202,Automation,08-03-2018,03-08-2019,Industrial,3,Cancelled,421040,286307,7
+5437,Analytics,04-05-2018,20-11-2018,Healthcare,1,Completed,633552,152052,3
+1754,Software,20-08-2019,09-04-2020,E-commerce,3,On Track,892386,249868,7
+7507,Software,24-08-2019,10-07-2020,Banking,1,Cancelled,52678,18964,6
+1495,Automation,05-10-2018,24-04-2020,Healthcare,3,Delayed,22713,5451,5
+4784,Analytics,19-07-2019,27-12-2019,Healthcare,3,On Track,760007,486404,4
+4160,Analytics,21-09-2018,08-06-2020,Industrial,1,Delayed,251045,110460,3
+8211,Automation,19-03-2019,25-04-2020,Industrial,2,Delayed,976645,19533,6
+9597,Data Science,21-06-2018,07-01-2019,Healthcare,3,Delayed,81564,4894,2
+2733,Software,07-12-2019,03-11-2020,E-commerce,3,Completed,550066,253030,4
+4969,Data Science,06-05-2019,24-06-2019,Banking,1,Completed,420295,29421,6
+5510,Software,13-03-2018,11-11-2018,Banking,3,Delayed,545585,49103,5
+6506,Automation,28-03-2019,02-11-2020,Industrial,2,Completed,123420,32089,2
+9428,Analytics,10-09-2019,28-05-2020,E-commerce,3,On Track,293661,114528,7
+1897,Data Science,04-04-2018,17-08-2020,Healthcare,3,Completed,613733,55236,5
+1401,Automation,21-02-2019,11-06-2019,Healthcare,3,On Track,512871,71802,7
+9109,Software,08-05-2019,19-08-2019,Industrial,2,Completed,428123,89906,5
+6060,Analytics,25-07-2018,09-03-2020,Healthcare,1,Cancelled,199636,101814,5
+2708,Automation,11-04-2019,18-10-2020,Healthcare,1,On Track,480563,206642,
+2944,Automation,13-02-2020,14-12-2020,Banking,2,Completed,550647,192726,4
+4207,Data Science,04-04-2019,14-10-2020,Healthcare,3,On Track,759244,7592,5
+8554,Software,02-07-2020,22-12-2020,Banking,3,Cancelled,773125,278325,6
+8987,Automation,07-04-2019,07-03-2020,Banking,1,Delayed,,0,3
+1750,Data Science,19-01-2020,24-06-2020,Banking,1,Delayed,236703,56809,7
+7649,Automation,02-07-2018,23-11-2018,Banking,3,Completed,178847,103731,5
+9617,Data Science,03-05-2018,10-05-2018,E-commerce,1,On Track,61264,30019,8
+3422,Data Science,27-08-2019,12-06-2020,E-commerce,3,Completed,30622,5206,8
+7825,Software,13-11-2018,19-12-2019,Banking,1,Delayed,987319,118478,6
+3390,Software,20-12-2019,15-09-2020,E-commerce,1,On Track,670083,67008,3
+5977,Data Science,01-09-2018,24-11-2020,E-commerce,3,On Track,653345,91468,7
+2845,Analytics,22-12-2019,21-12-2020,Industrial,1,Delayed,941753,226021,8
+9204,Analytics,01-09-2019,21-07-2020,Industrial,1,Delayed,796717,286818,5
+1639,Data Science,16-12-2019,19-10-2020,Industrial,3,Cancelled,65134,27356,2
+9065,,24-01-2018,05-05-2020,Industrial,2,Cancelled,699165,20975,5
+7768,Automation,18-02-2020,28-08-2020,Industrial,2,On Track,224499,76330,4
+1982,Software,03-10-2018,07-05-2019,Healthcare,3,On Track,409667,24580,7
+5805,Software,16-02-2020,08-04-2020,Healthcare,1,Cancelled,198041,31687,3
+1927,Analytics,06-04-2019,06-10-2019,Industrial,1,On Track,,0,7
+1852,Automation,09-10-2019,05-05-2020,E-commerce,3,Delayed,440663,39660,3
+8885,Analytics,06-06-2019,03-12-2020,Industrial,,Completed,145787,1458,2
+8654,Analytics,08-04-2018,28-01-2020,E-commerce,1,Completed,987192,365261,6
+3800,Analytics,12-02-2018,07-12-2018,Industrial,2,Cancelled,781185,7812,4
+8035,Data Science,16-02-2018,06-08-2019,Healthcare,1,On Track,217086,117226,3
+7296,Data Science,27-06-2018,27-05-2019,E-commerce,1,On Track,918229,394838,8
+4641,Automation,24-04-2018,11-12-2018,Healthcare,1,On Track,461882,189372,8

@@ -1,0 +1,196 @@
+Gathering and analyzing business requirements: You would be responsible for understanding the business needs of the organization, defining requirements and identifying opportunities to improve processes.
+
+Creating proposals: You should be proficient in technical writing and be able to create proposals for new projects, software systems, or product enhancements. This would involve understanding the scope of the project, the technical requirements, and creating a detailed plan for the development team to follow.
+
+Working with development teams: You would be responsible for communicating the project requirements to the development team and ensuring that the team understands the business needs and the scope of the project. You would also be responsible for reviewing and testing the software system to ensure that it meets the requirements.
+
+Conducting data analysis: You would be responsible for analyzing data from various sources to identify patterns and trends, and create reports that provide insights into the business.
+
+Managing project timelines: You would be responsible for ensuring that the project is completed within the allocated timeframe and budget.
+
+Conducting training sessions: You may be required to conduct training sessions for end-users, explaining how to use the software system and providing guidance on best practices.
+
+Collaborating with stakeholders: You would be responsible for collaborating with stakeholders, including senior management, customers, and vendors to understand their needs and gather feedback on the project.
+
+Overall, your job would involve a mix of technical and business skills, including data analysis, technical writing, communication, project management, and stakeholder engagement.
+
+
+
+
+
+
+
+
+
+
+
+
+Agile methodology: What it is, how it works, and why it matters
+Reading time: about 9 min
+
+Today, organizations are constantly looking for ways to keep up with the fast pace of changing technology and evolving markets. And when the name of the game is speed, development teams must be more nimble and flexible than ever before. 
+
+That’s where the Agile methodology comes in.
+
+Read on to learn what Agile development methodology is and how it can help your team deliver faster, better, stronger products every time.
+
+What is Agile methodology?
+The Agile methodology was created by a group of software developers who wanted a better approach to the traditional development process, which they found to be too complicated and weighed down by documentation requirements. 
+
+In a founding document called the Agile Manifesto, the group outlined 4 values and 12 principles that guide the Agile philosophy: 
+
+4 Values of Agile
+Individuals and interactions over processes and tools.
+Working software over comprehensive documentation.
+Customer collaboration over contract negotiation.
+Responding to change over following a plan.
+By responding to customer needs and adapting to change more efficiently, these values help drive a development process that reliably delivers quality products and happy customers.   
+
+12 Principles of Agile
+Satisfy the customer through early and continuous delivery of valuable software.
+Welcome and harness changes for the customer's competitive advantage, even late in development.
+Deliver working software frequently, from a couple of weeks to a couple of months, with a preference for shorter timescales.
+Have daily collaboration between business people and developers throughout the project.
+Build projects around motivated individuals. Create the environment and support developers need, and trust them to get the job done.
+Prioritize face-to-face conversation as the most efficient and effective method of conveying information to and within a development team.
+Measure progress by the amount of working software completed.
+Maintain a constant and sustainable pace of development indefinitely.
+Enhance agility through continuous attention to technical excellence and good design.
+Keep it simple. Simplicity—the art of maximizing the amount of work not done—is essential.
+Recognize that the best architectures, requirements, and designs emerge from self-organizing teams.
+Regularly reflect and adapt behavior for continual improvement. 
+These Agile values and principles represent an umbrella philosophy that can (and has been) applied to numerous frameworks and methodologies in both software development and other project management processes.
+
+Following these values and guiding principles, the Agile mindset prioritizes flexibility and enables adaptiveness to change in an uncertain environment. This makes Agile a popular philosophy because it helps teams deliver products faster while better meeting customer, user, and business needs. 
+
+Benefits of Agile
+The Agile method has gained momentum as a top choice for leaders and developers alike. And it’s no surprise why. 
+
+Here are just a few key benefits of Agile project management and Agile development:
+
+Greater stakeholder engagement and collaboration 
+
+Agile encourages a high degree of input and collaboration between the client and development team. This leads to happier clients because there is transparency throughout the process and developers are better informed on client needs and wants. 
+
+Predictable costs and scheduling
+
+By breaking down the development process into iterative sprints, project managers can more accurately estimate costs and set clear, predictable timelines. This makes stakeholders happier because they know what to expect and can plan budgets and marketing strategies more precisely. It also makes the development process easier for teams because they can focus on delivering quickly and reliably and test software regularly for quality and efficacy. 
+
+Flexibility amidst change
+
+Agile project management is all about being nimble so teams can adapt to changes quickly while reducing sunk costs. Agile allows teams to pivot due to changing client needs, shifts in market demands, or in response to evolving product requirements. This gives teams the flexibility to refine and reprioritize the product backlog so that they are always delivering high-quality, relevant products on time and on budget.
+
+Higher quality products
+
+Agile product development integrates regular testing into the development process. This makes it easier for the product owner to identify any issues early on and make changes as needed. The result is higher quality products that are relevant and thoroughly vetted.
+
+Reduced risk and faster ROI
+
+Agile reduces risk because it regularly tests and allows for change mid-development. By iterating on a project step by step (instead of moving forward with a rigid end-to-end project plan), teams are able to predictably produce viable products. If they discover an issue mid-project, they can quickly adjust course rather than finding out at the end of the whole project that there are issues.
+
+Additionally, because Agile is more user-focused, Agile teams make decisions based on user stories, testing feedback, and client input throughout the process. This ensures that each feature isn’t just a functional IT component, but a valuable product for end-users.
+
+Together, these processes minimize risk and help teams deliver value more quickly, resulting in faster ROI.     
+
+Agile methodology steps
+There are 6 stages of the Agile lifecycle: 
+
+1. Concept
+The first step of the Agile method is to scope out and prioritize projects. Sit down with your team and stakeholders to brainstorm and identify business opportunities and estimate time and costs to complete each project. Then you can determine which projects are feasible and most valuable, and prioritize your project backlog from there.
+
+2. Inception
+Once you know what your project is, the next step is to figure out how you will complete it. Who do you need on your team? What are the initial requirements of the customer? Create a diagram to define team responsibilities and scope out the work that needs to be done in each sprint. 
+
+3. Iteration
+With your initial project defined and approved, the development team can get to work on the first iteration. 
+
+The basic workflow during this phase includes:
+
+Requirements—Confirm requirements based on the product backlog and stakeholder feedback.
+Development—Develop the product based on set requirements. 
+Testing—Conduct QA testing to validate the features and uncover any issues.
+Delivery—Produce a working product. 
+Feedback—Gather feedback from customers and stakeholders in order to define the requirements for the next iteration.
+4. Release
+After multiple iterations, it's time to release a final product. During the release phase, you will conduct final testing and quality assurance to identify any bugs, address defects, and finalize user documentation before releasing into production.
+
+5. Production
+Your product is out in the world! The production phase means your feature is live. Have your team provide ongoing monitoring and support to keep the system running smoothly and ensure users understand how to use it. 
+
+6. Retirement
+When your system is outdated, unnecessary, or ready to be replaced, it goes into the retirement phase. This stage includes all end-of-life activities, such as notifying customers and migrating the system release out of production.    
+
+Agile methodology examples 
+Agile is a guiding philosophy that can be applied to various development models. Here are four of the most popular types of Agile methodologies: 
+
+Scrum 
+Scrum is an Agile framework that focuses on cross-functional teamwork, accountability, and iteration in order to develop, deliver, and support complex products. It’s primarily used for software development, but its principles can be applied to other project management teams too. 
+
+The Scrum framework is organized into key roles, events, and artifacts:
+
+Scrum roles: 
+
+Product owner
+Scrum master
+Scrum development team
+Scrum events: 
+
+Daily Scrum
+Sprint planning meeting 
+Sprint review
+Sprint retrospective
+Scrum artifacts:
+
+Product backlog
+Sprint backlog
+Increment (or Sprint Goal)
+Scrum teams use tools like scrum task boards to help organize tasks and sprints to help team members visualize the current status of projects. 
+
+Kanban
+Kanban is an agile model designed to help teams work together more effectively. It follows three guiding principles:
+
+Visualize your workflow.
+Limit the amount of work in progress.
+Organize the workflow based on priority.
+Unlike Scrum, Kanban doesn’t have prescribed roles or timeboxed sprints. Instead, Kanban focuses on shorter cycles for faster delivery and transparency throughout development so everyone understands who is responsible for what and when. 
+
+Tools like an online Kanban board give team members the chance to contribute ideas, change the status of tasks, and track their progress so everyone works more efficiently and effectively together. 
+
+Visualizing the process helps everyone stay on the same page and ensures that effort is focused on work that has high priority and high impact. 
+
+kanban board
+Kanban board example (Click image to modify online)
+Extreme Programming (XP)
+XP is the most specific Agile framework for software development practices. It aims to not only produce high-quality software but to make the entire process easier on the development team itself. XP values communication, feedback, simplicity, courage, and respect. 
+
+It’s best applied when
+
+
+https://agilemanifesto.org/
+https://lucidspark.com/blog/what-is-agile-methodology
+https://hbr.org/2016/05/embracing-agile
+https://www.infoworld.com/article/3237508/what-is-agile-methodology-modern-software-development-explained.html
+https://thedigitalprojectmanager.com/projects/pm-methodology/agile-methodologies/
+
+
+
+
+There are constantly changing requirements
+Teams have tight deadlines
+Stakeholders want to reduce risk under deadlines
+Teams can automate unit and functional tests
+Feature Driven Development
+Feature Driven Development (FDD) is a client-centric Agile methodology tool that focuses on incremental development and status reporting across all levels. This approach helps prevent two of the biggest roadblocks in software development: confusion and rework. 
+
+FDD follows five basic steps:
+
+Develop an overall model
+Build a feature list
+Plan by feature
+Design by feature
+Build by feature
+FDD is a scalable model that delivers features on a much shorter timeframe than other Agile frameworks. For instance, instead of a typical 4-week iteration cycle in Scrum, FDD aims to deliver features every 2-10 days. This makes it easier for teams to track and address errors, adapt to client requests, and get new team members up-to-date quickly.  
+
+The great thing about Agile is that it’s more of a guideline than an actual rule. So whatever Agile methodology you follow, make sure it addresses the needs of your team and customers. After all, the goal of Agile is to help teams deliver better work, faster. So find what works best for you and run with it.
+
+

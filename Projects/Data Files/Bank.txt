@@ -1,0 +1,5 @@
+Account	Type
+123	Saving
+234	Term Deposit
+345	Current
+890	Recurring

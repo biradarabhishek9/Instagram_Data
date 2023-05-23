@@ -1,0 +1,237 @@
+What is your understanding of the role of a business analyst, and how do you see yourself fitting into this role?
+
+Describe your experience with analyzing and interpreting data. Can you give an example of how you have used data analysis to make a business decision?
+
+What is your experience with Agile and Waterfall methodologies? Which one do you prefer and why?
+
+Can you walk me through the steps you take to elicit requirements from stakeholders?
+
+Describe your experience with creating functional and non-functional requirements.
+
+Can you give an example of how you have identified and resolved conflicts between stakeholders during a project?
+
+How do you ensure that project timelines and budgets are met while also maintaining quality standards?
+
+Describe your experience with project management tools and techniques, such as Gantt charts, PERT diagrams, and risk management.
+
+What are some of the key skills you believe are necessary for success as a business analyst?
+
+Can you describe your experience with presenting findings and recommendations to senior management? What techniques have you found to be most effective? 
+Greeting
+ 
+Please consider this email as my interest in the post of Business Analyst. My skill set seems to be a perfect match for this position.
+ 
+Full Name: Abhishek Biradar
+Contact number: +918792662546
+Relevant  Experience: 6 months
+Current Location: Bangalore ( ready to relocate as per needs)
+Preferred Location: Pune, Mumbai 
+Notice Period: Immediate joiner
+ 
+I have attached my resume for your reference.
+ 
+Please review the same and I would be happy to hear back from you regarding this opportunity.
+ 
+Thanks & Regards,
+Abhishek Biradar
+
+
+
+Business Analysis
+requirements gathering
+business process improvement 
+Business Intelligence
+Innovation
+Communication Skills
+Detail Oriented
+Problem Solving Skills
+Business process
+Business intelligence
+Business administration
+Decision making
+Deliverables
+Forecasting
+
+
+
+
+Dear Recruiter,
+I am writing to express my interest in the position you advertised on [platform/source]. I have a [Degree/Certification] in [Field of Study] and [Number of Years] years of experience in [Industry/Job Function]. My expertise lies in [List Key Skills/Experience] and I am confident that my experience in [Relevant Experience] will make me a valuable asset to your organization.
+Thank you for your consideration.
+Sincerely,
+[Your Name]
+
+
+
+I'm working as business development executive from past 6 months, here I undertake business required documentation  and business presentations. Looking for business analyst role. MBA Post Graduate and certified data science, BI, Analytics Talent.
+
+
+
+Proficiently identify business problems, analyze data, and provide recommendations to enhance business performance.
+Demonstrate expertise in using data visualization tools and conveying intricate information to stakeholders.
+Seek to leverage my skills as an analyst, coupled with my experience, to drive business growth and success.
+
+Skillful in gathering requirements, improving processes, and innovating to achieve business objectives.
+Excel in communication and problem-solving, with a meticulous approach to detail.
+Successfully streamlined processes and delivered top-notch solutions, with a proven track record of results.
+Proficient in delivering strong presentations and communicating complex information to stakeholders.
+
+Conducted in-depth analysis to identify business opportunities and improve processes, resulting in increased sales revenue and reduced turnaround time.
+Built and maintained strong client relationships, facilitated effective communication, and demonstrated exceptional problem-solving skills.
+Streamlined processes through detailed analysis and development of standard operating procedures, resulting in improved productivity and reduced errors.
+
+
+
+“Proficiently identify business problems, analyze data, and provide recommendations to enhance business performance. Demonstrate expertise in using data visualization tools and conveying intricate information to stakeholders. Seek to leverage my skills as an analyst, combined with my experience, to drive business growth and success.
+
+Experienced business associate with skills in requirements gathering, process improvement & innovation. Exceptional communication and problem-solving abilities, with a detail-oriented approach. Proven track record of streamlining processes and delivering high-quality solutions. Strong presentation skills and ability to convey complex information to stakeholders.
+
+A business analyst plays a crucial role in organizations by bridging the gap between business objectives and technical solutions. The primary responsibilities of a business analyst include:
+
+Requirements Gathering: Business analysts work closely with stakeholders, including business users, clients, and project teams, to understand their needs and gather requirements for a particular project or initiative. They conduct interviews, workshops, and analysis to identify and document business requirements.
+
+Analysis and Documentation: Business analysts analyze gathered requirements to identify gaps, conflicts, or areas of improvement. They document the requirements in a clear and concise manner, often using techniques like use cases, user stories, process flows, and data models.
+
+Stakeholder Management: Business analysts act as a liaison between various stakeholders, ensuring effective communication and collaboration. They facilitate meetings, manage expectations, and negotiate requirements to ensure alignment between business objectives and technical solutions.
+
+Solution Assessment and Validation: Business analysts assess potential solutions and evaluate their feasibility and alignment with business needs. They may perform cost-benefit analysis, risk assessments, and impact analyses to help stakeholders make informed decisions. They also validate the implemented solutions to ensure they meet the defined requirements.
+
+Business Process Improvement: Business analysts identify opportunities for process improvement within an organization. They analyze existing workflows, identify bottlenecks or inefficiencies, and propose solutions to streamline processes, enhance productivity, and achieve business goals.
+
+Collaboration with Development Teams: Business analysts work closely with development teams, such as software developers and IT professionals. They provide clarifications on requirements, address any issues that arise during implementation, and ensure that the final solution meets the intended business objectives.
+
+Project Management Support: Business analysts may assist project managers in various project management activities, such as creating project plans, estimating timelines, and monitoring progress. They contribute to the overall success of a project by ensuring that requirements are properly managed and communicated throughout the project lifecycle.
+
+Overall, the role of a business analyst
+
+
+
+Power Bi Training : Beginning to Advance Level
+Audience:
+1.    Fresher who wants to clear Interview.
+2.    Business Analyst.
+3.    Data Analyst
+4.    Data Scientist
+5.    Data Engineers
+6.    MIS
+ Interested candidates inbox me.
+Power bi
+ 1. Column Chart
+2. Stacked Column Chart
+3. Pie Chart
+4. Donut Chart
+5. Funnel Chart
+6. Ribbon Chart
+7. Include & Exclude
+8. View Data & Export
+9. MAP
+10. Filled Map
+11. Map With Pie Chart
+12. Map Formatting
+13. Background Change in Map
+14. Creating A Simple Table
+15. Formatting a Table
+16. Conditional Formatting in Table
+17. Change Aggregation in Table
+18. Creating A Simple Matrix
+19. Conditional Formating in Matrix
+20. Hirearchies in Matrix
+21. SubTotal and Total in Matrix
+22. Number Formatting in Matrix and Table
+23. Line Chart
+24. Drill Down in Line Chart
+25. Area Chart
+26. Line vs Column Chart
+27. Scatter Plot
+28. Water Fall Chart
+29. Tree Map
+30. Guage Chart
+31. Number Card
+32. Text Card
+33. Date Card
+35. Multi Row Card
+36. Filter on Visual
+37. Filter on Page
+38. Filter in all Page
+39. Drill Through
+40. Text Slicer
+41. Format Text Slicer
+42. Date Slicer
+44. Slicer for Number
+45. Insert Objects
+46. Index
+47. BookMark Action
+48. DrillThrough Action
+49. Text Functions in Power Query
+Merge
+Split and Trim
+Upper, Lower and Proper
+Add Suffix and Prefix
+LEFT, RIGHT AND MID
+EXTRACT TEXT WITH DELIMITER
+50 Date Function in Power Query
+Year Quater,Month,Day
+Difference between Dates,Earliest and Latest
+Name of Day and Name of Month
+Day of Week/Month/Year & Week of Month/Year
+Extract Date from Date & Time
+Calculate Age in 2 Button Clicks
+Which Day of Year,Quarter,Month your date of Birth Is
+51 Appending Files and Tables in Power BI
+Append Multiple CSV Files from a Folder
+Append Multiple excel tables/Sheets from Single file
+Append Excel Table with different number of Columns
+Append multiple excel files from a Folder
+Append different data source files in Power Query
+52. Merging Files and Tables in Power BI-[ Vlookup Without Formula]
+Merge Data from multiple Excel Files/Workbooks in Power Query
+Merging Table/Sheets
+Merge Data from different Data Sources in Power Query (Power BI)
+Merge Data having multiple matching Columns or multiple Criteria in Power Query
+54. Columns from Examples and Conditional Column in Power Bi
+Column from Examples on Splitting Text
+Column From Examples on Merging Text
+Column from Examples on Alphanumeric Data
+Conditional Column on one Column
+Conditional Column on two Columns
+Conditional Column Comparing two column values
+Conditional Column on Dates
+55. Important Topic in Power BI
+Fill Down and Fill Up
+Grouping
+Transpose
+UnPivot
+Replace Error and Values
+Keep Rows and Remove Rows
+Add, Remove ,GoTO Columns
+56 DAX Function
+RELATED
+Day
+Month
+QUARTER
+Year
+Weeknum
+WEEKDAY
+Today()
+Now()
+Datediff
+DATEADD
+STARTOFMONTH
+ENDOFMONTH
+EoMonth
+UPPER
+Lower
+LEFT
+RIGHT
+Mid
+Trim
+Len
+Concatenate
+Search
+SUBSTITUTE
+If
+IFERROR
+And
+OR
+57. Dashboard
+58. Power BI Service
